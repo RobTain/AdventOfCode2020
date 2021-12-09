@@ -51,12 +51,6 @@ public class Day03_2 {
 			}
 		}
 		
-		System.out.println(result1);
-		System.out.println(result3);
-		System.out.println(result5);
-		System.out.println(result7);
-		System.out.println(result1o2);
-		
 		System.out.println("Solution: " + (result1 * result3 * result5 * result7 * result1o2));
 	}
 
