@@ -28,7 +28,6 @@ public class Day04_1 {
 		
 		int result = 0;
 		for (String string : inputList) {
-			System.out.println(string);
 			EntityDay04 entity = new EntityDay04();
 
 			String[] split = string.split(" ");
