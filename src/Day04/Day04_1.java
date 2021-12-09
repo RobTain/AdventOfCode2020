@@ -86,19 +86,20 @@ class EntityDay04 {
 
 		if (getBirthYear() == null) {
 			count++;
-		}
+		} 
 
 		if (getIssueYear() == null) {
 			count++;
-		}
-
+		} 
+		
 		if (getExpirationYear() == null) {
 			count++;
-		}
+		} 
 
 		if (getHeight() == null) {
 			count++;
-		}
+		} 
+		
 
 		if (getPasspordID() == null) {
 			count++;
@@ -106,7 +107,7 @@ class EntityDay04 {
 
 		if (getHairColor() == null) {
 			count++;
-		}
+		} 
 
 		if (getEyeColor() == null) {
 			count++;
